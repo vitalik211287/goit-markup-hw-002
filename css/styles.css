@@ -27,7 +27,7 @@ body {
   font-weight: bold;
   font-size: 26px;
   line-height: 1.19;
-  color: var(---h-color);
+  color: var(--h-color);
 }
 
 .header-logo-web {
@@ -106,7 +106,7 @@ body {
   line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: var(---h-color);
+  color: var(--h-color);
 }
 .advantage-after-title {
   font-size: 14px;
@@ -138,7 +138,7 @@ body {
   line-height: 1.17;
   text-align: center;
   letter-spacing: 0.03em;
-  color: var(---h-color);
+  color: var(--h-color);
 }
 
 .our-team-subtitle {
@@ -147,7 +147,7 @@ body {
   line-height: 1.19;
   text-align: center;
   letter-spacing: 0.03em;
-  color: var(---h-color);
+  color: var(--h-color);
 }
 .our-team-after-title {
   font-size: 16px;
@@ -196,7 +196,7 @@ body {
   line-height: 1.62;
   text-align: center;
   letter-spacing: 0.03em;
-  color: var(---h-color);
+  color: var(--h-color);
   cursor: pointer;
 }
 
@@ -217,7 +217,7 @@ body {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
-  color: var(---h-color);
+  color: var(--h-color);
 }
 
 .all-after-subtitle {
